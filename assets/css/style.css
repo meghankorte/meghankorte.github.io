@@ -28,15 +28,15 @@ a:hover {
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #436CC8, 0 0 40px #436CC8, 0 0 50px #436CC8, 0 0 60px #436CC8, 0 0 70px #436CC8;
   }
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #fff, 0 0 30px #6A91FC, 0 0 40px #6A91FC, 0 0 50px #6A91FC, 0 0 60px #6A91FC, 0 0 70px #6A91FC, 0 0 80px #6A91FC;
   }  
 }
 
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #fff, 0 0 30px #6A91FC, 0 0 40px #6A91FC, 0 0 50px #6A91FC, 0 0 60px #6A91FC, 0 0 70px #6A91FC, 0 0 80px #6A91FC;
   }
 
 h1, h2, h3, h4, h5, h6 {
@@ -408,10 +408,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #436CC8, 0 0 40px #436CC8, 0 0 50px #436CC8, 0 0 60px #436CC8, 0 0 70px #436CC8;
   }
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #fff, 0 0 30px #6A91FC, 0 0 40px #6A91FC, 0 0 50px #6A91FC, 0 0 60px #6A91FC, 0 0 70px #6A91FC, 0 0 80px #6A91FC;
   }
 }
 #hero h2 {
@@ -425,10 +425,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #436CC8, 0 0 40px #436CC8, 0 0 50px #436CC8, 0 0 60px #436CC8, 0 0 70px #436CC8;
   }
   to {
-    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    text-shadow: 0 0 20px #fff, 0 0 30px #6A91FC, 0 0 40px #6A91FC, 0 0 50px #6A91FC, 0 0 60px #6A91FC, 0 0 70px #6A91FC, 0 0 80px #6A91FC;
   }
 }
 #hero .btn-about {
@@ -446,7 +446,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #436CC8;
 }
 #hero .btn-about:hover {
-  background: #3dc8b7;
+  background: #6A91FC;
 }
 @media (min-width: 1024px) {
   #hero {
